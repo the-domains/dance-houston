@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dance! -Houston]]></title>
-        <description><![CDATA[Dance! -Houston]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Dance Houston]]></title>
+        <description><![CDATA[Dance Houston]]></description>
+        <link>https://thegrid.ai/dance-houston/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 06:43:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 06:59:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dance-houston/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A name to that!]]></title>
-            <description><![CDATA[<article><h1>A name to that!</h1><p>Here's what we're trying to do</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25f2bee51da3a5dccd813116fd1784a35d1d6762.jpg"></article>]]></description>
-            <link>undefineda-name-to-that/index.html</link>
+            <description><![CDATA[<article><h1>A name to that!</h1><p>the next generation starts here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25f2bee51da3a5dccd813116fd1784a35d1d6762.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dance-houston/a-name-to-that/index.html</link>
             <guid isPermaLink="false">090037dc-da8f-441b-a314-45049c9d859a</guid>
-            <pubDate>Sun, 21 Feb 2016 06:43:16 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 06:58:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
